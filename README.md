@@ -14,8 +14,6 @@ Open the app and start writing or editing your text documents!. Features include
 - watch it in aciton!
     - [here](https://github.com/user-attachments/assets/2cf2c3c9-f584-469d-803b-041782287d49)
     - [another!](https://files.slack.com/files-pri/T0266FRGM-F07D0GFEREX/image.png)
-)
-
 
 ## :wink: Hit me up!! :v::heart:
 Find `uniquepersun` all over web!  

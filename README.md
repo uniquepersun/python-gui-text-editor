@@ -12,7 +12,9 @@ Open the app and start writing or editing your text documents!. Features include
  
 ## Some screenshots for you :)
 - watch it in aciton!
-    - [here](https://files.slack.com/files-pri/T0266FRGM-F07D0GFEREX/image.png)
+    - [here](https://github.com/user-attachments/assets/2cf2c3c9-f584-469d-803b-041782287d49)
+    - [another!](https://files.slack.com/files-pri/T0266FRGM-F07D0GFEREX/image.png)
+)
 
 
 ## :wink: Hit me up!! :v::heart:
